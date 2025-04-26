@@ -6,11 +6,11 @@ A simple task management application for tracking your todos, with focus on Reac
 
 ## Features
 
-- 📝 **Task Management**
+-  **Task Management**
   - Add new tasks
   - Organize tasks by category
   - Mark tasks as complete
-- 👀 **Multiple Views**
+-  **Multiple Views**
   - View all tasks
   - Filter by completed tasks
   - Filter by pending tasks
